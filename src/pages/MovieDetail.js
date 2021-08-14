@@ -78,6 +78,7 @@ const HeadLine = styled.div`
     object-fit: cover;
   }
 `;
+
 const Awards = styled.div`
   min-height: 80vh;
   display: flex;
